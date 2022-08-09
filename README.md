@@ -3,7 +3,7 @@
 
 - 🔭 Python
 - 🔭(😐) C# / C Sharp
-- 🔭(😐) Java
+- 🔭 Java
 
 ### 📺 Stats
 
